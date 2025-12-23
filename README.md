@@ -64,6 +64,13 @@ Click the link below to watch the demo video:
 
 ![Demo GIF](demo.gif)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshot_1.jpeg" width="45%" />
+  <img src="screenshot_2.jpeg" width="45%" />
+</p>
+
 ## 🧠 How it Works
 
 1.  **Capture:** OpenCV grabs frames from your webcam.
