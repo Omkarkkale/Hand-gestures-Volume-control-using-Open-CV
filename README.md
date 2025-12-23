@@ -62,7 +62,7 @@ python VolHandContol.py
 
 Click the link below to watch the demo video:
 
-[**▶️ Watch Demo Video**](https://github.com/Omkarkkale/Hand-gestures-Volume-control-using-Open-CV/raw/main/demo.mp4)
+![Demo GIF](demo.gif)
 
 ## 🧠 How it Works
 
