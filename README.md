@@ -64,6 +64,8 @@ Click the link below to watch the demo video:
 
 ![Demo GIF](demo.gif)
 
+> **GIF not loading?** [Watch the video here](https://github.com/Omkarkkale/Hand-gestures-Volume-control-using-Open-CV/raw/main/demo.mp4)
+
 ## 📸 Screenshots
 
 <p align="center">
