@@ -60,7 +60,9 @@ python VolHandContol.py
 
 ## 🎥 Demo
 
-*(Add a gif or screenshot here later to show off the project!)*
+Click the link below to watch the demo video:
+
+[**▶️ Watch Demo Video**](demo.mp4)
 
 ## 🧠 How it Works
 
